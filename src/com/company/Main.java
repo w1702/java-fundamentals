@@ -70,7 +70,7 @@ public class Main {
         // sum the numbers / reduce
 //        List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
 
-        // Get the names starting with a vowel (a, e, i, o, u) / filter
+        // Get the names NOT starting with a vowel (a, e, i, o, u) / filter
 //        List<String> names = Arrays.asList("Alex", "Chris", "Electra", "Ian", "Oppa", "Upton", "Will");
 
         // Apply an additional 20% increase to each rate / map
@@ -93,7 +93,7 @@ public class Main {
 
         /* Builder pattern */
 
-        /* DI */
+        /* Depeendency injection */
 
         /* unit testing */
 
@@ -105,7 +105,7 @@ public class Main {
 
         /* validation and Exceptions */
 
-        /* File I/O */
+        /* File I/O, file separators */
 
         /* scrum and workflows */
 
