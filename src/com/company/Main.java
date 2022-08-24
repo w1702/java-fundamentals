@@ -67,6 +67,9 @@ public class Main {
 
 
         /* break it down, basic pattern, sum, if any exercises and higher order functions, lambdas */
+        // Return a single string of the the animals that have more than 3 chars in their name. Append a dash and the number of chars in their name .
+//        List<String> animals = Arrays.asList("Baboon", "Cat", "Whale", "Dog", "Rhino", "Parrot"); // should return "Baboon-6 Whale-5 Rhino-5 Parrot-6" (no space at the end)
+
         // sum the numbers / reduce
 //        List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
 
@@ -75,7 +78,6 @@ public class Main {
 
         // Apply an additional 20% increase to each rate / map
 //        List<Double> rates = Arrays.asList(0.1, 0.2, 0.3, 0.4, 0.5);
-
 
         /* functions vs procedures */
 
@@ -93,7 +95,7 @@ public class Main {
 
         /* Builder pattern */
 
-        /* Depeendency injection */
+        /* Dependency injection */
 
         /* unit testing */
 
@@ -111,7 +113,7 @@ public class Main {
 
         /* project from scratch */
 
-        /* integratiom testing/ testing pyramid */
+        /* integration testing/ testing pyramid */
 
         /* data structures and algorithms, nested loops, reusing objects, recursion */
     }
