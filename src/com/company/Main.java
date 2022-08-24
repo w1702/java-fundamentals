@@ -97,7 +97,7 @@ public class Main {
 
         /* unit testing */
 
-        /* git, repos and ci */
+        /* git, git flow, repos and ci */
 
         /* spring */
 
