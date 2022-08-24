@@ -97,7 +97,7 @@ public class Main {
 
         /* unit testing */
 
-        /* ci */
+        /* git, repos and ci */
 
         /* spring */
 
@@ -106,8 +106,6 @@ public class Main {
         /* validation and Exceptions */
 
         /* File I/O */
-
-        /* git */
 
         /* scrum and workflows */
 
