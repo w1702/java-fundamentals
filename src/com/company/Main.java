@@ -29,6 +29,8 @@ public class Main {
 
         /* basic mvc pattern, sql, db abstraction */
 
+        /* command line app */
+
         /* Builder pattern */
 
         /* Dependency injection */
